@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "yxzwayne.com/gaiaprime",
+    baseUrl: "gaiaprime.yxzwayne.com",
     ignorePatterns: ["private", "templates", ".obsidian", "log-l", "ucsd"],
     defaultDateType: "created",
     theme: {
