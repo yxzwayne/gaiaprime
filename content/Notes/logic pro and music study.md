@@ -1,0 +1,12 @@
+---
+tags:
+  - "#project-ideas"
+  - music
+---
+- Using Logic Pro is just putting music events on a timeline.
+- 先学了节拍：4/4就是4个四分音符算一个小节：
+- 电音里经常出现的：三连音
+- 八分音符的三连音相当于两个八分音符的实值
+- 我可以不知道记谱法，因为我在logic里作曲而且没有其他人会演我的曲子
+- 人声需要亮化处理，如果不的话会有卡啦ok的感觉
+- 每天至少拿出一两个小时的时间练习；
