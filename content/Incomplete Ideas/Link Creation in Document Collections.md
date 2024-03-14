@@ -10,4 +10,6 @@ Key considerations:
 - Ensure the system can accurately transcribe spoken lectures and extract the most salient points.
 	- Sometimes the transcription is provided by some sort of automated but noisy process (hallucination of highly technical and niche terms)
 - Summarize or not? Ideally, we should preserve the originality of documents, since backlinks should be created on the basis of true note contents. 
-- Need to think about hierarchical mining and 
+- Need to think about hierarchical mining.
+
+This is important because each of us that has the self-respect of keeping a personal knowledge base will benefit from this kind of automation (or intelligence, if we actually crack it). In fact, I think it's entirely possible that the actual technique that works is going to be something designed to tackle an entirely different problem.

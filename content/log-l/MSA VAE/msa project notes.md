@@ -1,7 +1,32 @@
-Main interest:
+# Main interest:
 - latent space mapping
 - learning higher order epistasis
 	- know whether it exists
+- 
+
+March 2024
+---
+Conclusions:
+1. Viral proteins have less higher-order interactions compared to other proteins, but the Potts model is still capturing these interactions.
+2. The results are dominated by independence, which explains why the VAE (Variational Autoencoder) performs similarly to the independent model.
+3. The current results are not sufficient for a manuscript.
+
+Action Items:
+1. Add a Transformer model to the project to make the results more impactful. This is a necessary step to improve the significance of the findings.
+2. Conduct consistency tests to ensure the reliability and robustness of the results.
+3. Focus on the approximately 35 drug-influenced positions in the protein sequences:
+   a. Create shorter Multiple Sequence Alignments (MSAs) by selecting only these positions.
+   b. Train the VAE on these shorter MSAs.
+   c. Analyze the results of predicting higher-order marginals using the VAE trained on the shorter MSAs.
+
+To proceed with the project:
+1. Implement a Transformer model and integrate it into your existing workflow. Compare its performance with the VAE and independent models.
+2. Design and perform consistency tests to validate the findings across different settings or parameters.
+3. Preprocess the MSAs to create shorter versions focusing on the drug-influenced positions. Use these shorter MSAs to train the VAE and evaluate its performance in predicting higher-order marginals.
+4. Document your findings, including the impact of the Transformer model, consistency test results, and the analysis of the VAE trained on shorter MSAs.
+5. Discuss the updated results with your research mentor to determine if they are now sufficient for a manuscript or if further improvements are needed.
+
+By following these action items and organizing your findings, you can meaningfully continue the project and work towards generating impactful results worthy of a manuscript.
 
 # Todo
 - [x] Write a script to split any incozAming sequence data with the ratios specified in the parameter

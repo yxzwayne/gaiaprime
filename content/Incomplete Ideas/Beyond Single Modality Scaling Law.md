@@ -3,7 +3,6 @@ tags:
   - agent
   - scaling-law
 ---
-
 Texts, images, videos, audios, they all encode information, and we can view these formats from the early days of multimedia: things being played on Nokias. we know what we will expect when we see one such media, regardless of the modality. we would also have a feeling, but we don't immediately and fully know how to transcribe this feeling into texts. While language and texts are lossy compression of our brain's information, one can train himself, by vast amount of reading, writing, and iteratively improving these two skills, to minimize the information compression by using more effective ways to describe his feelings. neural scaling law concerns the capability of a deep learning model with respect to compute, model size and data size. using the chinchilla optimal scaling law, we are running out of human-generated data soon. many theses have been proposed to break this scaling law in many directions: - prune data and train on less to achieve the same - generate synthetic data - explore the limitations of repeated training on the same sets of data. 
 
 GPT-4 says I should check these areas:

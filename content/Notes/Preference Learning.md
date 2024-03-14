@@ -4,6 +4,13 @@ tags:
   - agent
   - preference-learning
 ---
+1. Active preference learning
+[[Active Preference Learning with Discrete Choice Data]]
+1. Bayesian interactive optimization
+2. RLHF
+3. PPO
+4. Direct Preference Optimization
+
 Active Preference Learning with Discrete Choice Data 
 - Aiming for both low loss and low trial: zero-shot spirit in making inference;
 - Recommendation system oriented;  

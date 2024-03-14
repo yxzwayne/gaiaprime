@@ -56,3 +56,8 @@ A collection of questions that I frequent to prepare for MLE interviews.
 7. If we want to generate samples x ~ p(x), what are the advantages and disadvantages of EBMs, normalizing flows, diffusion models, GANs, and VAEs? When would one want to use an EBM?
 8. What is the importance of persistence in EBM training? What assumptions/theoretical results does this break and why do we do it?
 9. Besides score matching and CD, what other methods are there for training EBMs?
+
+
+# Other Common ML Questions
+1. What is the random in random forest?
+2. 

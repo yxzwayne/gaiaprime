@@ -10,7 +10,7 @@ Extension:
 
 
 Scaling Law of Language Model with size
-# [[Chinchilla - April 2022]]
+# [[chinchilla - april 2022]]
 Scaling law but with both data and parameter sizes
 - Beyond Scaling Laws: Good data is helpful
 

@@ -1,12 +1,11 @@
 ---
-title: Incomplete Ideas
+title: Quick Thoughts
 tags:
   - thought
 ---
 
-Hopefully you know what inspired the title of this page.
-
 You may find longer writings [here](writings/)
+
 ### 宇宙の彼方で
 
 Human communications are still in its infant stage. Expanding the efficiency and bandwith in any meaningful and techncial way will be crucial to our journey and conquest of space and stars. While we are not there, we can still try to NewType-descent our way for the better.

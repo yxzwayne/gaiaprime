@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "gaiaprime.yxzwayne.com",
-    ignorePatterns: ["private", "templates", ".obsidian", "log-l", "ucsd"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Log-L", "UCSD", "**/Untitled*.md", "Private Notes"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -28,7 +28,7 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#FCF8F8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
@@ -38,12 +38,12 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
+          light: "#171920",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#B2D2DD",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },

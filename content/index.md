@@ -8,11 +8,14 @@ This is Wayne's Gaia Prime – a place of searching, learning, and optimism in f
 
 Build the Adjutant, Build Ayre, Build Apollo. This is my Terminus.
 
-You can check out my [Incomplete Ideas](random.md), where I keep my neuron activations and expand on them later; or, check out:
+You can check out my [Quick Thoughts](random.md), where I keep my neuron activations and expand on them later; or, check out:
+- [[Incomplete Ideas]] that I don't yet have the time to start or polish. Feel free to grab them, or [reach out](mailto:yxzwayne@gmail.com) for project collab.
 - [[Notes]]: my math and machine learning studying notes.
-- [[Project Ideas]] that I don't yet have the time to start or polish. Feel free to grab them, or [reach out](mailto:yxzwayne@gmail.com) for project collab.
+- [[Projects/]]: for when I write about my projects that I spent more time on
 - [[Writings]]: longer writings that are occasionally more polished.
-- [[Projects/]]: for when I write about my projects
+
+
+If you are interested in agents and assistants, check out [the new types](random.md#宇宙の彼方で) and [[Writings/Inner Monologue]]
 
 
 ### Why Gaia Prime?
