@@ -1,8 +1,0 @@
-Reading the paper "Epistasis and entrenchment of drug resistance in HIV-1 subtype B"
-https://elifesciences.org/articles/50524
-# Background
-1. HIV rapidly mutates and acquires drug resistance mutations (DRMs) under selective pressure from antiretroviral therapy (ART), leading to complex mutation patterns and potential treatment failure.
-2. The impact of a mutation on protein stability and fitness depends on the entire genetic background due to epistasis, and the accumulation of associated mutations can lead to the entrenchment of primary resistance mutations.
-3. Modeling epistasis is crucial for identifying drug and immune pressure-mediated mutational combinations that give rise to drug-resistant, stable viruses, and co-evolutionary information from multiple sequence alignments (MSAs) has been used to build models for protein structure and fitness, including Potts statistical models.
-4. Recent studies using Potts models have inferred epistatic interactions involved in the evolution of drug resistance in HIV-1 protease, and this paper confirms these predictions, showing how such models capture epistatic interactions leading to drug resistance in HIV protease, reverse transcriptase, and integrase.
-5. Potts models are maximum-entropy models that capture pairwise mutational correlations caused by epistasis, and the statistical energy of a sequence is interpreted to be proportional to fitness, with the effect of a mutation being background-dependent.
