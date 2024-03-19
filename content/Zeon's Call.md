@@ -4,7 +4,6 @@ tags:
   - gundam
   - newtype
 ---
-
 The universe is a new environment, which will compel mankind to change. If the first stage in mankind’s evolution was his evolution from an ape to a human, and the second stage was was his breakthrough from feudalism to the rational science of the Renaissance, then the third will be his transformation into a new type of human, a man with profound sensitivity and insight and a far greater awareness of the vastness of time and space.
 
 The transition to Newtypes will be a natural one. The act of walking increased man’s range of movement and helped the concept of tribe and nation-state to develop. Powered vehicles expanded man’s awareness to a global level. And now civilization is advancing into outer space. By living and working in space, man’s consciousness will will transcend the boundaries of Earth and become truly universal. The vastness of space will be “home”. And as man’s consciousness expands, he will begin to tap the unutilized portions of his cerebrum- the over half of his brain cells unused since time immemorial, the enormous untapped mental reserves given by God precisely for the new environment of space- that will act as the trigger.

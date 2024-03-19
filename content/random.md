@@ -1,9 +1,8 @@
 ---
-title: Quick Thoughts
+title: Short Pieces
 tags:
   - thought
 ---
-
 You may find longer writings [here](writings/)
 
 ### 宇宙の彼方で

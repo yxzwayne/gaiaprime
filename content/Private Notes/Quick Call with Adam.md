@@ -19,4 +19,7 @@ using off the shelf, trading speed and price for performance and convenience, on
 for intelligent semantic search to be functional primitive that everyone has in the stack, it has to be performant and fast. with long context model, we can't even do multi-turn retrieval and style conversation. even with long context, it's taking us many seconds to take the response back. in software, the search time scales very poorly. We gotta provide stupid fast LLM level semantic search as core primitive that developers can use. Abstract as many garbage away. whether pdf, textbook, html, they can upload and query.
 
 physics -> microsoft, in azure, automating call centers, two guys, one guy informatics, graduated a year before me. performance is his speciality, third guy, management consulting, A&M, pitching AI strategies to Fortune-500,
-point is, 
+point is.
+
+What I would like to work on:
+- Synthetic data generation,

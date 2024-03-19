@@ -1,0 +1,11 @@
+- [ ] Organize msa vae repo
+	- [ ] rewrite vae implementation in jax
+	- [ ] rewrite transformer sampling code
+	- [ ] formalize experiment pipeline to be self-contained into a single run.
+		- [ ] train model
+		- [ ] generate sequences
+		- [ ] obtain higher-order marginals
+		- [ ] plot the performance with respect to independent sequences.
+	- [ ] implement variants of vae to test capacity
+		- [ ] vq-vae
+	- [ ] [[check how to handle tempered posterior]]

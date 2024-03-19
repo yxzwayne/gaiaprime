@@ -1,7 +1,7 @@
 ---
 title: Lessons from training Medilora
 tags:
-  - language-model
+  - language-models
 date: 2024-02-22
 ---
 

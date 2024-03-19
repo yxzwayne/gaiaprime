@@ -11,8 +11,9 @@ Build the Adjutant, Build Ayre, Build Apollo. This is my Terminus.
 You can check out my [Quick Thoughts](random.md), where I keep my neuron activations and expand on them later; or, check out:
 - [[Incomplete Ideas]] that I don't yet have the time to start or polish. Feel free to grab them, or [reach out](mailto:yxzwayne@gmail.com) for project collab.
 - [[Notes]]: my math and machine learning studying notes.
-- [[Projects/]]: for when I write about my projects that I spent more time on
+- [[Projects]]: for when I write about my projects that I spent more time on.
 - [[Writings]]: longer writings that are occasionally more polished.
+- [[Kaffeehaus]]: readings and links I find useful, relevant and interesting.
 
 
 If you are interested in agents and assistants, check out [the new types](random.md#宇宙の彼方で) and [[Writings/Inner Monologue]]

@@ -2,7 +2,6 @@
 - latent space mapping
 - learning higher order epistasis
 	- know whether it exists
-- 
 
 March 2024
 ---
@@ -20,14 +19,11 @@ Action Items:
    c. Analyze the results of predicting higher-order marginals using the VAE trained on the shorter MSAs.
 
 To proceed with the project:
-1. Implement a Transformer model and integrate it into your existing workflow. Compare its performance with the VAE and independent models.
-2. Design and perform consistency tests to validate the findings across different settings or parameters.
+1. Implement Gibbs sampling code over MSA Transformers to generate new sequences, integrate it into existing workflow. Compare its performance with the VAE and independent models.
+2. Design and perform consistency tests on the VAE to validate the findings across different settings or parameters.
 3. Preprocess the MSAs to create shorter versions focusing on the drug-influenced positions. Use these shorter MSAs to train the VAE and evaluate its performance in predicting higher-order marginals.
 4. Document your findings, including the impact of the Transformer model, consistency test results, and the analysis of the VAE trained on shorter MSAs.
 5. Discuss the updated results with your research mentor to determine if they are now sufficient for a manuscript or if further improvements are needed.
-
-By following these action items and organizing your findings, you can meaningfully continue the project and work towards generating impactful results worthy of a manuscript.
-
 # Todo
 - [x] Write a script to split any incozAming sequence data with the ratios specified in the parameter
 Given: 6M.exper.seq
